@@ -83,7 +83,7 @@ GROUP_URLS = [
         "group k",
         "Pat Myaz",
         # Monitoring URL:
-        "http://164.92.247.36:3000/dashboards",
+        "http://46.101.69.11:3000/dashboards",
         # Logging URL:
         "http://164.92.247.36:3000/dashboards",
     ],
